@@ -6,10 +6,12 @@ var friendArray = [
       question3: 3,
       question4: 4,
       question5: 5,
-      question6: 6,
-      question7: 7,
-      question8: 8,
-      question9: 9,
-      question10: 10
+      question6: 4,
+      question7: 3,
+      question8: 2,
+      question9: 1,
+      question10: 1
     }
   ];
+
+module.exports = friendArray;
